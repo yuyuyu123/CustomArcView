@@ -3,7 +3,7 @@ An android widget called CustomArcView for showing some texts in the arc's cente
 
 #Effects:
 
-   ![image](https://github.com/yuyuyu123/UploadAndDownload/blob/master/screenshot.gif)
+   ![image](https://github.com/yuyuyu123/CustomArcView/blob/master/screenshot.gif)
    
 #Configurable Attributes:
     <declare-styleable name="CustomArcView">
